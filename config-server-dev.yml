@@ -1,1 +1,2 @@
-testkey=dev
+register.url: http://localhost:8083/eureka/
+
